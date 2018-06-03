@@ -45,24 +45,3 @@ plt.title('Test Results')
 plt.xlabel('Position Levels')
 plt.ylabel('Salary ($)')
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
